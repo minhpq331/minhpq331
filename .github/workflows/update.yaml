@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: 22 * * * *
+    - cron: 23 * * * *
 
 jobs:
   update-readme:
