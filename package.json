@@ -1,0 +1,24 @@
+{
+  "name": "minhpq331",
+  "version": "1.0.0",
+  "description": "My auto update profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/minhpq331/minhpq331.git"
+  },
+  "author": "minhpq331@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minhpq331/minhpq331/issues"
+  },
+  "homepage": "https://github.com/minhpq331/minhpq331#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "handlebars": "^4.7.8"
+  }
+}

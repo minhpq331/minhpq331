@@ -12,4 +12,6 @@ I'm a software developer and a writer.
 
 Here's a list of my blog posts on [My Viblo](https://viblo.com/u/monmen)
 
-
+{{#items}}
+* [{{title}}]({{link}}) - ({{publishedDate}})
+{{/items}}
