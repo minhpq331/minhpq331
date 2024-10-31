@@ -1,9 +1,11 @@
 ![Minh Monmen](images/profile-banner.jpg)
 
+<p align="center">
 <a href="https://github.com/minhpq331"><img src="https://img.shields.io/badge/-minhpq331-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/minhpq331" height="25" alt="Github Badge"></a>
 <a href="https://www.linkedin.com/in/minhpq331/"><img src="https://img.shields.io/badge/-@minhpq331-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/minhpq331/" height="25" alt="LinkedIn Badge"></a>
 <a href="https://t.me/minhpq"><img src="https://img.shields.io/badge/-@minhpq-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/minhpq" height="25" alt="Telegram Badge"></a>
 <a href="https://viblo.asia/u/monmen"><img src="https://img.shields.io/badge/-monmen-%231DA1F2.svg?&style=for-the-badge&logo=viblo&logoColor=white&link=https://viblo.asia/u/monmen" height="25" alt="Viblo Badge"></a>
+</p>
 
 ## ⚡️ About me
 
