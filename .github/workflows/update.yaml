@@ -1,8 +1,14 @@
 name: Update README
 
 on:
+  push:
+    branches:
+      - main
+    # ingore changes in README.md file
+    paths-ignore:
+      - 'README.md'
   schedule:
-    - cron: '26 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:

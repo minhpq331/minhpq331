@@ -22,7 +22,10 @@ const updateREADME = () => {
             const template = Handlebars.compile(
                 fs.readFileSync('README.template.md', 'utf8')
             );
-            const combinedData = template({ items });
+            // Get updatedAt in format yyyy-MM-dd
+            const updatedAt = new Date().toISOString().split('T')[0];
+            const recentItems = items.splice(0, 5);
+            const combinedData = template({ recentItems, items, updatedAt });
             fs.writeFileSync('README.md', combinedData);
         })
         .catch((error) => {

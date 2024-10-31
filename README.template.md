@@ -1,5 +1,7 @@
 # Hi, I'm Minh Monmen 👋
 
+<a href="http://hits.dwyl.com/minhpq331/minhpq331"><img alt="hits" src="https://hits.dwyl.com/minhpq331/minhpq331.svg?style=flat-square"></a> 
+
 I'm a software developer and a writer.
 
 ## ⚡️ About me
@@ -8,10 +10,31 @@ I'm a software developer and a writer.
 - I'm a **Generalist** with a variety of knowledge in developing and operating systems.
 - I'm a **Realistic** person with a Bachelor of Economics.
 
-## ✏️ My blog
+## 🔗 Connect with me
 
-Here's a list of my blog posts on [My Viblo](https://viblo.com/u/monmen)
+<a href="https://github.com/minhpq331"><img src="https://img.shields.io/badge/-minhpq331-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/minhpq331" height="25" alt="Github Badge"></a>
+<a href="https://www.linkedin.com/in/minhpq331/"><img src="https://img.shields.io/badge/-@minhpq331-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/minhpq331/" height="25" alt="LinkedIn Badge"></a>
+<a href="https://t.me/minhpq"><img src="https://img.shields.io/badge/-@minhpq-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/minhpq" height="25" alt="Telegram Badge"></a>
+<a href="https://viblo.asia/u/monmen"><img src="https://img.shields.io/badge/-monmen-%231DA1F2.svg?&style=for-the-badge&logo=viblo&logoColor=white&link=https://viblo.asia/u/monmen" height="25" alt="Viblo Badge"></a>
 
-{{#items}}
-* [{{title}}]({{link}}) - ({{publishedDate}})
-{{/items}}
+## ✏️ Recent blog posts
+
+Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen). (updated at {{ updatedAt }})
+
+{{#recentItems}}
+* [{{{title}}}]({{link}}) - ({{publishedDate}})
+{{/recentItems}}
+
+<details>
+  <summary><b>📋 All blog posts</b></summary>
+  <br/>
+  <ul>
+  {{#items}}
+    <li>
+        <a href='{{link}}'>{{{title}}}</a> - ({{publishedDate}})
+    </li>
+  {{/items}}
+  </ul>
+</details>
+
+<a href="https://www.buymeacoffee.com/minhpq331" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40"></a>
