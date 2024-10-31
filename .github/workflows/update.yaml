@@ -32,6 +32,8 @@ jobs:
         run: |
           git config --global user.name "Minh Monmen"
           git config --global user.email "minhpq331@gmail.com"
-          git add README.md
-          git commit -m "Update README"
-          git push origin main
+          if git status --porcelain | grep -q "^ M"; then
+            git add README.md
+            git commit -m "Update README"
+            git push origin main
+          fi
