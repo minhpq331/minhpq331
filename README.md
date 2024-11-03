@@ -15,7 +15,7 @@
 
 ## ✏️ Recent blog posts
 
-Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen). (updated at 2024-11-02)
+Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen). (updated at 2024-11-03)
 
 * [Câu chuyện về haproxy và websocket qua buổi phỏng vấn DevOps](https://viblo.asia/p/cau-chuyen-ve-haproxy-va-websocket-qua-buoi-phong-van-devops-5OXLAgYr4Gr) - (2024-10-23)
 * [Một vài ứng dụng của 0 và 1 có thể bạn chưa biết](https://viblo.asia/p/mot-vai-ung-dung-cua-0-va-1-co-the-ban-chua-biet-zXRJ8D5ZJGq) - (2024-10-09)
