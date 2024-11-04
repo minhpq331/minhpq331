@@ -15,18 +15,21 @@
 
 ## ✏️ Recent blog posts
 
-Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen). (updated at 2024-11-03)
+Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen). (updated at 2024-11-04)
 
+* [Từ backend học DevOps qua việc Do-It-Yourself](https://viblo.asia/p/tu-backend-hoc-devops-qua-viec-do-it-yourself-aNj4vvk246r) - (2024-11-04)
 * [Câu chuyện về haproxy và websocket qua buổi phỏng vấn DevOps](https://viblo.asia/p/cau-chuyen-ve-haproxy-va-websocket-qua-buoi-phong-van-devops-5OXLAgYr4Gr) - (2024-10-23)
 * [Một vài ứng dụng của 0 và 1 có thể bạn chưa biết](https://viblo.asia/p/mot-vai-ung-dung-cua-0-va-1-co-the-ban-chua-biet-zXRJ8D5ZJGq) - (2024-10-09)
 * [DevOps, Thợ đụng và Generalist](https://viblo.asia/p/devops-tho-dung-va-generalist-GAWVpym5405) - (2024-02-25)
 * [GitlabCI và tuyệt thế võ học tối ưu pipeline](https://viblo.asia/p/gitlabci-va-tuyet-the-vo-hoc-toi-uu-pipeline-MG24BKyRJz3) - (2023-12-30)
-* [Tôi đã hoàn thành Viblo Mayfest bằng ChatGPT như thế nào?](https://viblo.asia/p/toi-da-hoan-thanh-viblo-mayfest-bang-chatgpt-nhu-the-nao-gwd43M5QLX9) - (2023-05-15)
 
 <details>
   <summary><b>📋 All blog posts</b></summary>
   <br/>
   <ul>
+    <li>
+        <a href='https://viblo.asia/p/toi-da-hoan-thanh-viblo-mayfest-bang-chatgpt-nhu-the-nao-gwd43M5QLX9'>Tôi đã hoàn thành Viblo Mayfest bằng ChatGPT như thế nào?</a> - (2023-05-15)
+    </li>
     <li>
         <a href='https://viblo.asia/p/chuyen-anh-tho-xay-p3-chuyen-cai-bo-dem-view-5OXLAYrZLGr'>Chuyện anh thợ xây P3: Chuyện cái bộ đếm view</a> - (2023-05-06)
     </li>
