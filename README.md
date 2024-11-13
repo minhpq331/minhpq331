@@ -15,7 +15,7 @@
 
 ## ✏️ Recent blog posts
 
-Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen). (updated at 2024-11-12)
+Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen). (updated at 2024-11-13)
 
 * [Từ backend học DevOps qua việc Do-It-Yourself](https://viblo.asia/p/tu-backend-hoc-devops-qua-viec-do-it-yourself-aNj4vvk246r) - (2024-11-04)
 * [Câu chuyện về haproxy và websocket qua buổi phỏng vấn DevOps](https://viblo.asia/p/cau-chuyen-ve-haproxy-va-websocket-qua-buoi-phong-van-devops-5OXLAgYr4Gr) - (2024-10-23)
