@@ -15,7 +15,7 @@
 
 ## ✏️ Recent blog posts
 
-Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen). (updated at 2024-12-21)
+Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen). (updated at 2024-12-22)
 
 * [DevOps training: Cẩm nang debug networking](https://viblo.asia/p/devops-training-cam-nang-debug-networking-y3RL1QovLao) - (2024-11-29)
 * [Từ backend học DevOps qua việc Do-It-Yourself](https://viblo.asia/p/tu-backend-hoc-devops-qua-viec-do-it-yourself-aNj4vvk246r) - (2024-11-04)
