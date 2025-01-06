@@ -15,18 +15,21 @@
 
 ## ✏️ Recent blog posts
 
-Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen). (updated at 2025-01-05)
+Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen). (updated at 2025-01-06)
 
+* [DevOps training: Tạo &quot;VPN kiểu mới&quot; trong 15 phút với Cloudflare Zerotrust](https://viblo.asia/p/devops-training-tao-vpn-kieu-moi-trong-15-phut-voi-cloudflare-zerotrust-2oKLnoY1VQO) - (2025-01-05)
 * [DevOps training: Cẩm nang debug networking](https://viblo.asia/p/devops-training-cam-nang-debug-networking-y3RL1QovLao) - (2024-11-29)
 * [Từ backend học DevOps qua việc Do-It-Yourself](https://viblo.asia/p/tu-backend-hoc-devops-qua-viec-do-it-yourself-aNj4vvk246r) - (2024-11-04)
 * [Câu chuyện về haproxy và websocket qua buổi phỏng vấn DevOps](https://viblo.asia/p/cau-chuyen-ve-haproxy-va-websocket-qua-buoi-phong-van-devops-5OXLAgYr4Gr) - (2024-10-23)
 * [Một vài ứng dụng của 0 và 1 có thể bạn chưa biết](https://viblo.asia/p/mot-vai-ung-dung-cua-0-va-1-co-the-ban-chua-biet-zXRJ8D5ZJGq) - (2024-10-09)
-* [DevOps, Thợ đụng và Generalist](https://viblo.asia/p/devops-tho-dung-va-generalist-GAWVpym5405) - (2024-02-25)
 
 <details>
   <summary><b>📋 All blog posts</b></summary>
   <br/>
   <ul>
+    <li>
+        <a href='https://viblo.asia/p/devops-tho-dung-va-generalist-GAWVpym5405'>DevOps, Thợ đụng và Generalist</a> - (2024-02-25)
+    </li>
     <li>
         <a href='https://viblo.asia/p/gitlabci-va-tuyet-the-vo-hoc-toi-uu-pipeline-MG24BKyRJz3'>GitlabCI và tuyệt thế võ học tối ưu pipeline</a> - (2023-12-30)
     </li>
