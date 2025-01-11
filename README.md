@@ -15,7 +15,7 @@
 
 ## ✏️ Recent blog posts
 
-Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen). (updated at 2025-01-10)
+Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen). (updated at 2025-01-11)
 
 * [DevOps training: Tạo &quot;VPN kiểu mới&quot; trong 15 phút với Cloudflare Zerotrust](https://viblo.asia/p/devops-training-tao-vpn-kieu-moi-trong-15-phut-voi-cloudflare-zerotrust-2oKLnoY1VQO) - (2025-01-05)
 * [DevOps training: Cẩm nang debug networking](https://viblo.asia/p/devops-training-cam-nang-debug-networking-y3RL1QovLao) - (2024-11-29)
