@@ -15,7 +15,7 @@
 
 ## ✏️ Recent blog posts
 
-Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen). (updated at {{ updatedAt }})
+Here's a list of my recent blog posts on [Viblo](https://viblo.com/u/monmen).
 
 {{#recentItems}}
 * [{{{title}}}]({{link}}) - ({{publishedDate}})
